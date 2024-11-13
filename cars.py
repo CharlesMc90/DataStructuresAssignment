@@ -1,5 +1,5 @@
 print("Charles McNeil")
-cars = ['Ford', 'Chrysler', 'Dodge', 'Ram', 'Jeep', 'Chevy', 'GMC', 'Buick']
+cars = ['Ford', 'Chrysler', 'Dodge', 'Ram', 'Jeep', 'Chevy', 'GMC']
 print(cars)
 print(len(cars))
 cars.append('Buick')
